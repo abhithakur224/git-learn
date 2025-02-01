@@ -1,2 +1,4 @@
 # git-learn
-auther abhay pratap
+auther-Abhay pratap
+father name randeep rana 
+
